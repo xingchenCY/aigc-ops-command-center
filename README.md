@@ -4,8 +4,8 @@
 
 ## 在线演示
 
-- 演示地址：`https://<你的GitHub用户名>.github.io/aigc-ops-command-center/`
-- 源码地址：`https://github.com/<你的GitHub用户名>/aigc-ops-command-center`
+- 演示地址：`https://xingchency.github.io/aigc-ops-command-center/`
+- 源码地址：`https://github.com/xingchenCY/aigc-ops-command-center`
 
 > 页面当前使用固定的演示数据，不连接真实 AI 服务、设备或用户数据。发布到 GitHub Pages 后，评审者可直接打开链接查看完整交互。
 
@@ -44,10 +44,10 @@ pnpm build
 pnpm preview
 ```
 
-方式 3：发布 GitHub Pages。当前演示地址仍是占位符，待目标 GitHub 账号创建公开仓库后替换。
+方式 3：直接打开在线演示。
 
 ```text
-https://<你的GitHub用户名>.github.io/aigc-ops-command-center/
+https://xingchency.github.io/aigc-ops-command-center/
 ```
 
 ## 技术栈
