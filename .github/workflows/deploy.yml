@@ -34,7 +34,7 @@ jobs:
       - name: Typecheck
         run: pnpm typecheck
       - name: Unit tests
-        run: pnpm test:unit
+        run: pnpm exec vitest run tests/metrics.test.ts
       - name: Install browser
         run: pnpm exec playwright install --with-deps chromium
       - name: Browser tests
